@@ -1,7 +1,48 @@
-# ECneko60
-"ECneko60" build log - An electro capacitive keyboard powered by EC60 pcb with support oring gaslet mount like in Bakeneko60
+# oring mounted 60% electro capacitive keyboard build log
+TLDR: guide how to build EC 60% keyboard with oring mount aka ECneko60
 
-PCB:
+Last year (2023) many open source ec 60% pcb has been published so I decided to build my own ec keyboard from scatch. During build process I realised, there is opportunity to fit EC60 pcb into bakeneko 60 case. I used NIZ switches. After 6 months of using daily Im more than happy with it. Because accommodate ec60 into bakeneko 60 case its not straightforward I decided to share my build log and turn into guide.
+
+
+### Part list:
+
+1x EC60 pcb
+
+1x C3 daughterboard
+
+1x steel plate
+
+61x NIZ housings
+
+61x NIZ sliders
+
+61x NIZ conical springs
+
+1x rubber domes sheet
+
+C3 plate mounted stabilizers (4x 2u, 1x 6.25u)
+
+1x 30A Oring
+
+26x M2 12mm long screws
+
+26x M2 nuts
+
+1x bakeneko 60 case (only [open source](https://github.com/kkatano/bakeneko-60) design case supported. cannonkeys bakeneko not supported) 
+
+1x keycaps set
+
+### Tools list:
+
+1x plastic clippers
+
+1x lube (Krytox GPL 205 Grade 0)
+
+1x ultra thin brush
+
+
+### PCB:
+I used came from taobao. It based on Cipulot [EC60](https://github.com/Cipulot/EC60) but support more layouts
 Due to high demand and low supply I decided to buy pcb from taobao. It looks similar to Cipulot EC60 but with support for ANSI (625u) spacebar. It cost me around 200RMB so not that bad. Support VIAL only but it not bothers me. Appear in system as M0110_D
 Link to pcb: will add later 
 PLATE:
