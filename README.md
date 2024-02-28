@@ -14,8 +14,8 @@ Last year (2023) I discover open source ec 60% pcb - EC60 and decided to build m
 * 1x NIZ silicone dome sheet
 * C3 plate mounted stabilizers (4x 2u, 1x 6.25u)
 * 1x 30A Oring
-* 26x M2 12mm long screws
-* 26x M2 nuts
+* 30x M2 12mm long screws
+* 30x M2 nuts
 * 1x bakeneko 60 case (only [open source](https://github.com/kkatano/bakeneko-60) design case supported. cannonkeys bakeneko not supported) 
 * 1x keycaps set
 
