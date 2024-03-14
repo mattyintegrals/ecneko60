@@ -1,5 +1,5 @@
 # [Build Log] 60% oring mounted electro capacitive keyboard
-**TLDR:** used EC60 pcb and NIZ switches and put inside bakeneko 60 case
+**TLDR:** used EC60 pcb and Niz switches and put inside bakeneko 60 case
 ##
 Last year (2023) I discover open source ec 60% pcb - EC60 and decided to build my own ec keyboard from scratch.\
 During build process I realised, there is opportunity to add oring and fit EC60 pcb into bakeneko 60 case. In my build I used Niz switches due to their availability and low cost. After 6 months of use I am more than happy with it. Because accommodate EC60 into bakeneko 60 case is not straightforward I decided to share my build log and turn into guide.
